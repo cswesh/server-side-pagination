@@ -1,0 +1,7 @@
+GET http://localhost:5046/api/users
+
+GET http://localhost:5046/api/users?page=1&size=2
+
+GET http://localhost:5046/api/users?page=1
+
+GET http://localhost:5046/api/users?page=2&size=4
